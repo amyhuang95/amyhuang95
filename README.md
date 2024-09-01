@@ -20,12 +20,12 @@
 <code><img height="30" alt="javascript logo" src="https://skillicons.dev/icons?i=js"></code>
 <code><img height="30" alt="typescript logo" src="https://skillicons.dev/icons?i=ts"></code>
 <code><img height="30" alt="c logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
+<code><img height="30" alt="kotlin logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"></code>
+<code><img height="30" alt="dart logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"></code>
 
 
 **Frameworks & Tools:**
 
-<code><img height="30" alt="kotlin logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"></code>
-<code><img height="30" alt="dart logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"></code>
 <code><img height="30" alt="nodejs logo" src="https://skillicons.dev/icons?i=nodejs"></code>
 <code><img height="30" alt="express logo" src="https://skillicons.dev/icons?i=express"></code>
 <code><img height="30" alt="spring logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"></code>
