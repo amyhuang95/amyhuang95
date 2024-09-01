@@ -37,7 +37,6 @@
 **Tools:**
 
 <code><img height="30" alt="postgresql logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>
-<code><img height="30" alt="postman logo" src="https://skillicons.dev/icons?i=postman"></code>
 <code><img height="30" alt="mongodb logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
 <code><img height="30" alt="redis logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"></code>
 <code><img height="30" alt="docker logo" src="https://skillicons.dev/icons?i=docker"></code>
@@ -45,8 +44,8 @@
 <code><img height="30" alt="firebase logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"></code>
 <code><img height="30" alt="amazonwebservices logo" src="https://skillicons.dev/icons?i=aws"></code>
 <code><img height="30" alt="git logo" src="https://skillicons.dev/icons?i=git"></code>
+<code><img height="30" alt="postman logo" src="https://skillicons.dev/icons?i=postman"></code>
 <code><img height="30" alt="linux logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
-
 
 <br>
 <br>
