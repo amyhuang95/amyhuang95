@@ -1,11 +1,11 @@
 
 
-## Hello! Lovely to see you here! 👋
+## Hello! I'm Amy Huang 🙋🏻‍♀️ Lovely to see you here!
 
 ### About me...
 🎓 **Computer Science graduate student** at Northeastern University
 
-🔥 Passionate about **Full-Stack software development** in **cloud-native** environments  
+🔥 Passionate about **full-stack software development** in **cloud-native** environments  
 
 🎯 Aim to create efficient, scalable, and user-friendly applications that make a difference
 
@@ -13,41 +13,37 @@
 
 🌍 Fluent in English, Mandarin, and Korean
 
-## 💻 Techologies
+## 💻 Technologies
 
-**Programming Languages:**<br>
-<div>
-  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"><img height="30" alt="python logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="max-width: 100%;"></a></code>
-      <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"><img height="30" alt="java logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width: 100%;"></a></code>
-      <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=js"><img height="30" alt="javascript logo" src="https://skillicons.dev/icons?i=js" style="max-width: 100%;"></a></code>
-      <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=ts"><img height="30" alt="typescript logo" src="https://skillicons.dev/icons?i=ts" style="max-width: 100%;"></a></code>
-      <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"><img height="30" alt="c logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="max-width: 100%;"></a></code>
-</div>
+**Programming Languages:**
 
-<br>
+<code><img height="30" alt="python logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+<code><img height="30" alt="java logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
+<code><img height="30" alt="javascript logo" src="https://skillicons.dev/icons?i=js"></code>
+<code><img height="30" alt="typescript logo" src="https://skillicons.dev/icons?i=ts"></code>
+<code><img height="30" alt="c logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
 
-**Frameworks & Tools:**<br>
-<div>
-  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"><img height="30" alt="kotlin logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="max-width: 100%;"></a></code>
-      <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"><img height="30" alt="dart logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="max-width: 100%;"></a></code>
-      <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=nodejs"><img height="30" alt="nodejs logo" src="https://skillicons.dev/icons?i=nodejs" style="max-width: 100%;"></a></code>
-      <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=express"><img height="30" alt="express logo" src="https://skillicons.dev/icons?i=express" style="max-width: 100%;"></a></code>
-      <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"><img height="30" alt="spring logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="max-width: 100%;"></a></code>
-      <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"><img height="30" alt="django logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" style="max-width: 100%;"></a></code>
-      <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"><img height="30" alt="flutter logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="max-width: 100%;"></a></code>
-      <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"><img height="30" alt="react logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width: 100%;"></a></code>
-      <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"><img height="30" alt="postgresql logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="max-width: 100%;"></a></code>
-      <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=postman"><img height="30" alt="postman logo" src="https://skillicons.dev/icons?i=postman" style="max-width: 100%;"></a></code>
-      <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"><img height="30" alt="mongodb logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="max-width: 100%;"></a></code>
-      <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"><img height="30" alt="redis logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" style="max-width: 100%;"></a></code>
-      <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=docker"><img height="30" alt="docker logo" src="https://skillicons.dev/icons?i=docker" style="max-width: 100%;"></a></code>
-      <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=kubernetes"><img height="30" alt="kubernetes logo" src="https://skillicons.dev/icons?i=kubernetes" style="max-width: 100%;"></a></code>
-      <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"><img height="30" alt="firebase logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="max-width: 100%;"></a></code>
-      <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=aws"><img height="30" alt="amazonwebservices logo" src="https://skillicons.dev/icons?i=aws" style="max-width: 100%;"></a></code>
-      <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://skillicons.dev/icons?i=git"><img height="30" alt="git logo" src="https://skillicons.dev/icons?i=git" style="max-width: 100%;"></a></code>
-      <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"><img height="30" alt="linux logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="max-width: 100%;"></a></code>
 
-</div>
+**Frameworks & Tools:**
+
+<code><img height="30" alt="kotlin logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"></code>
+<code><img height="30" alt="dart logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"></code>
+<code><img height="30" alt="nodejs logo" src="https://skillicons.dev/icons?i=nodejs"></code>
+<code><img height="30" alt="express logo" src="https://skillicons.dev/icons?i=express"></code>
+<code><img height="30" alt="spring logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"></code>
+<code><img height="30" alt="django logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"></code>
+<code><img height="30" alt="flutter logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"></code>
+<code><img height="30" alt="react logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
+<code><img height="30" alt="postgresql logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>
+<code><img height="30" alt="postman logo" src="https://skillicons.dev/icons?i=postman"></code>
+<code><img height="30" alt="mongodb logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
+<code><img height="30" alt="redis logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"></code>
+<code><img height="30" alt="docker logo" src="https://skillicons.dev/icons?i=docker"></code>
+<code><img height="30" alt="kubernetes logo" src="https://skillicons.dev/icons?i=kubernetes"></code>
+<code><img height="30" alt="firebase logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"></code>
+<code><img height="30" alt="amazonwebservices logo" src="https://skillicons.dev/icons?i=aws"></code>
+<code><img height="30" alt="git logo" src="https://skillicons.dev/icons?i=git"></code>
+<code><img height="30" alt="linux logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
 
 <br>
 <br>
