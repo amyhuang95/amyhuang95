@@ -3,15 +3,13 @@
 ## Hello! I'm Amy Huang 🙋🏻‍♀️ Lovely to see you here!
 
 ### About me...
-🎓 **Computer Science graduate student** at Northeastern University
+👩🏻‍🎓 **Computer Science graduate student** at Northeastern University
 
 🔥 Passionate about **full-stack software development** in **cloud-native** environments  
 
 🎯 Aim to create efficient, scalable, and user-friendly applications that make a difference
 
 🌱 Constantly learning and exploring new programming languages and frameworks
-
-🌍 Fluent in English, Mandarin, and Korean
 
 ## 💻 Technologies
 
