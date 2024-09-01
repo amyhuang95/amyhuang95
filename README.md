@@ -3,13 +3,14 @@
 ## Hello! I'm Amy Huang 🙋🏻‍♀️ Lovely to see you here!
 
 ### About me...
-👩🏻‍🎓 **Computer Science graduate student** at Northeastern University
+<p>
+  
+👩🏻‍🎓 **Computer Science graduate student** at Northeastern University <br>
+🔥 Passionate about **full-stack software development** in **cloud-native** environments <br>
+🎯 Aim to create efficient, scalable, and user-friendly applications that make a difference <br>
+🌱 Constantly learning and exploring new programming languages and frameworks <br>
 
-🔥 Passionate about **full-stack software development** in **cloud-native** environments  
-
-🎯 Aim to create efficient, scalable, and user-friendly applications that make a difference
-
-🌱 Constantly learning and exploring new programming languages and frameworks
+</p>
 
 ## 💻 Technologies
 
@@ -32,6 +33,9 @@
 <code><img height="30" alt="django logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"></code>
 <code><img height="30" alt="flutter logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"></code>
 <code><img height="30" alt="react logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
+
+**Tools:**
+
 <code><img height="30" alt="postgresql logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>
 <code><img height="30" alt="postman logo" src="https://skillicons.dev/icons?i=postman"></code>
 <code><img height="30" alt="mongodb logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
@@ -42,6 +46,7 @@
 <code><img height="30" alt="amazonwebservices logo" src="https://skillicons.dev/icons?i=aws"></code>
 <code><img height="30" alt="git logo" src="https://skillicons.dev/icons?i=git"></code>
 <code><img height="30" alt="linux logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
+
 
 <br>
 <br>
