@@ -47,7 +47,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amyhuang95&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="180" alt="languages graph"  />     
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amyhuang95&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2&hide=jupyter%20notebook" height="180" alt="languages graph"  />     
   <img src="https://streak-stats.demolab.com?user=amyhuang95&locale=en&mode=weekly&theme=default&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
 </div>
 
