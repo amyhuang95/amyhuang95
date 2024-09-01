@@ -1,6 +1,6 @@
 
 
-## Lovely to see you here 👋
+## Hello! Lovely to see you here! 👋
 
 ### About me...
 🎓 **Computer Science graduate student** at Northeastern University
@@ -12,10 +12,6 @@
 🌱 Constantly learning and exploring new programming languages and frameworks
 
 🌍 Fluent in English, Mandarin, and Korean
-
-I'm always open to collaborating on interesting projects or discussing the latest in tech. Feel free to reach out to me through:
-
-[![Static Badge](https://img.shields.io/badge/hsinyaohuang-0077B5?style=flat-square&logo=linkedin&logoColor=f5f3f2&logoSize=14&labelColor=0077B5)](https://www.linkedin.com/in/hsinyaohuang/) [![Static Badge](https://img.shields.io/badge/amyhshuang%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=f5f3f2&logoSize=14&labelColor=D14836)](mailto:amyhshuang@gmail.com)
 
 ## 💻 Techologies
 
@@ -60,6 +56,13 @@ I'm always open to collaborating on interesting projects or discussing the lates
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amyhuang95&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="180" alt="languages graph"  />     
   <img src="https://streak-stats.demolab.com?user=amyhuang95&locale=en&mode=weekly&theme=default&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
 </div>
+
+<br>
+I'm always open to collaborating on interesting projects or discussing the latest in tech. 
+
+Feel free to reach out to me through:
+
+[![Static Badge](https://img.shields.io/badge/hsinyaohuang-0077B5?style=flat-square&logo=linkedin&logoColor=f5f3f2&logoSize=14&labelColor=0077B5)](https://www.linkedin.com/in/hsinyaohuang/) [![Static Badge](https://img.shields.io/badge/amyhshuang%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=f5f3f2&logoSize=14&labelColor=D14836)](mailto:amyhshuang@gmail.com)
 
 ###
 <div align="right">
