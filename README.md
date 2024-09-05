@@ -16,36 +16,36 @@
 
 **Programming Languages:**
 
-<code><a href="https://www.python.org/"><img height="30" alt="python logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a></code>
-<code><a href="https://www.oracle.com/java/"><img height="30" alt="java logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a></code>
-<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="30" alt="javascript logo" src="https://skillicons.dev/icons?i=js"></a></code>
-<code><a href="https://www.typescriptlang.org/"><img height="30" alt="typescript logo" src="https://skillicons.dev/icons?i=ts"></a></code>
-<code><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img height="30" alt="c logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></a></code>
-<code><a href="https://kotlinlang.org/"><img height="30" alt="kotlin logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"></a></code>
-<code><a href="https://dart.dev/"><img height="30" alt="dart logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"></a></code>
+<code><a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img height="30" alt="python logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a></code>
+<code><a href="https://www.oracle.com/java/" target="_blank" rel="noopener noreferrer"><img height="30" alt="java logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a></code>
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img height="30" alt="javascript logo" src="https://skillicons.dev/icons?i=js"></a></code>
+<code><a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img height="30" alt="typescript logo" src="https://skillicons.dev/icons?i=ts"></a></code>
+<code><a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noopener noreferrer"><img height="30" alt="c logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></a></code>
+<code><a href="https://kotlinlang.org/" target="_blank" rel="noopener noreferrer"><img height="30" alt="kotlin logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"></a></code>
+<code><a href="https://dart.dev/" target="_blank" rel="noopener noreferrer"><img height="30" alt="dart logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"></a></code>
 
 
 **Frameworks & Tools:**
 
-<code><a href="https://nodejs.org/"><img height="30" alt="nodejs logo" src="https://skillicons.dev/icons?i=nodejs"></a></code>
-<code><a href="https://expressjs.com/"><img height="30" alt="express logo" src="https://skillicons.dev/icons?i=express"></a></code>
-<code><a href="https://spring.io/"><img height="30" alt="spring logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"></a></code>
-<code><a href="https://www.djangoproject.com/"><img height="30" alt="django logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"></a></code>
-<code><a href="https://flutter.dev/"><img height="30" alt="flutter logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"></a></code>
-<code><a href="https://react.dev/"><img height="30" alt="react logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a></code>
+<code><a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer"><img height="30" alt="nodejs logo" src="https://skillicons.dev/icons?i=nodejs"></a></code>
+<code><a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer"><img height="30" alt="express logo" src="https://skillicons.dev/icons?i=express"></a></code>
+<code><a href="https://spring.io/" target="_blank" rel="noopener noreferrer"><img height="30" alt="spring logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"></a></code>
+<code><a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer"><img height="30" alt="django logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"></a></code>
+<code><a href="https://flutter.dev/" target="_blank" rel="noopener noreferrer"><img height="30" alt="flutter logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"></a></code>
+<code><a href="https://react.dev/" target="_blank" rel="noopener noreferrer"><img height="30" alt="react logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a></code>
 
 **Tools:**
 
-<code><a href="https://www.postgresql.org/"><img height="30" alt="postgresql logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></a></code>
-<code><a href="https://www.mongodb.com/"><img height="30" alt="mongodb logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></a></code>
-<code><a href="https://redis.io/"><img height="30" alt="redis logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"></a></code>
-<code><a href="https://www.docker.com/"><img height="30" alt="docker logo" src="https://skillicons.dev/icons?i=docker"></a></code>
-<code><a href="https://kubernetes.io/"><img height="30" alt="kubernetes logo" src="https://skillicons.dev/icons?i=kubernetes"></a></code>
-<code><a href="https://firebase.google.com/"><img height="30" alt="firebase logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"></a></code>
-<code><a href="https://aws.amazon.com/"><img height="30" alt="amazonwebservices logo" src="https://skillicons.dev/icons?i=aws"></a></code>
-<code><a href="https://git-scm.com/"><img height="30" alt="git logo" src="https://skillicons.dev/icons?i=git"></a></code>
-<code><a href="https://www.postman.com/"><img height="30" alt="postman logo" src="https://skillicons.dev/icons?i=postman"></a></code>
-<code><a href="https://www.linux.org/"><img height="30" alt="linux logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></a></code>
+<code><a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer"><img height="30" alt="postgresql logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></a></code>
+<code><a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"><img height="30" alt="mongodb logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></a></code>
+<code><a href="https://redis.io/" target="_blank" rel="noopener noreferrer"><img height="30" alt="redis logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"></a></code>
+<code><a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img height="30" alt="docker logo" src="https://skillicons.dev/icons?i=docker"></a></code>
+<code><a href="https://kubernetes.io/" target="_blank" rel="noopener noreferrer"><img height="30" alt="kubernetes logo" src="https://skillicons.dev/icons?i=kubernetes"></a></code>
+<code><a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer"><img height="30" alt="firebase logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"></a></code>
+<code><a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer"><img height="30" alt="amazonwebservices logo" src="https://skillicons.dev/icons?i=aws"></a></code>
+<code><a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"><img height="30" alt="git logo" src="https://skillicons.dev/icons?i=git"></a></code>
+<code><a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer"><img height="30" alt="postman logo" src="https://skillicons.dev/icons?i=postman"></a></code>
+<code><a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer"><img height="30" alt="linux logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></a></code>
 
 <br>
 <br>
