@@ -6,7 +6,7 @@
 <p>
   
 👩🏻‍🎓 **Computer Science graduate student** at Northeastern University <br>
-🔥 Passionate about **full-stack software development** in **cloud-native** environments <br>
+🔥 Passionate about **backend and full-stack software development** using **cloud computing** technologies <br>
 🎯 Aim to create efficient, scalable, and user-friendly applications that make a difference <br>
 🌱 Constantly learning and exploring new programming languages and frameworks <br>
 
