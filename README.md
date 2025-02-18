@@ -5,9 +5,9 @@
 ### About me...
 <p>
   
-👩🏻‍🎓 **MSCS student** at Northeastern University with a diverse background in International Economics and Data Analytics <br>
-🔥 Developing **full-stack** projects with microservices architecture, containerization, cloud computing, and distributed systems <br>
-🌱 Building expertise in **artificial intelligence** <br>
+👩🏻‍🎓 **MS student** @ NEU with a diverse background in Computer Science, International Economics and Data Analytics <br>
+📚 Currently taking courses on distributed systems, networking, and deep learning. 
+🔥 Experienced in developing **full-stack** projects with microservices architecture, containerization, cloud computing, and distributed systems <br>
 🎯 Aim to create efficient, scalable, and user-friendly applications that make a difference <br>
 ❤️ Love learning and exploring new programming languages and frameworks <br>
 
