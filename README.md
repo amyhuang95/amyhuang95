@@ -6,7 +6,7 @@
 <p>
   
 👩🏻‍🎓 **MS student** @ NEU with a diverse background in Computer Science, International Economics and Data Analytics <br>
-📚 Currently taking courses on distributed systems, networking, and deep learning. 
+📚 Currently taking courses on distributed systems, networking, and deep learning. <br>
 🔥 Experienced in developing **full-stack** projects with microservices architecture, containerization, cloud computing, and distributed systems <br>
 🎯 Aim to create efficient, scalable, and user-friendly applications that make a difference <br>
 ❤️ Love learning and exploring new programming languages and frameworks <br>
